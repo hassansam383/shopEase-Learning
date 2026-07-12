@@ -1,21 +1,7 @@
-server:
-  port: 8081
+The user wants me to apply the suggested edit to the original code and output the complete modified file.
 
-spring:
-  application:
-    name: product-service
-  datasource:
-    url: jdbc:h2:mem:productdb
-    driver-class-name: org.h2.Driver
-  jpa:
-    database-platform: org.hibernate.dialect.H2Dialect
-    hibernate:
-      ddl-auto: create-drop
-  h2:
-    console:
-      enabled: true
-      path: /h2-console
+Original code:
 
-logging:
-  level:
-    com.ecommerce: DEBUG
+The user wants me to apply the suggested edit to the original code and output the complete modified file.
+
+Original code:
